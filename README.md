@@ -1,8 +1,3 @@
-GitHub Repo:
-https://github.com/samjmwork470-collab/Project-Build-an-ML-Pipeline-Starter
-
-Weights and Biases:
-https://wandb.ai/samjmwork470-western-governors-university/nyc_airbnb
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
